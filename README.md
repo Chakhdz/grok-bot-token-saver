@@ -14,6 +14,10 @@ Long assistant chats get expensive because **dragged context**, not because the 
 - **Remaster** at the first long summary or 20 confirmed batches: new chat, same role, 5-line handoff, no transcript paste.
 - **Revive** a deleted worker from a fiche (name + description + skills) so work continues.
 
+![Chief routes one lane](docs/benefit-chief-routes.png)
+![Remaster on time](docs/benefit-remaster-on-time.png)
+![Revive from a short role card](docs/benefit-revive-role-card.png)
+
 ## Layout
 
 | File | Who reads it |
