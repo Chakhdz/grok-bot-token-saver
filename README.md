@@ -1,6 +1,6 @@
 # grok-bot-token-saver
 
-Token-thrifty chief/worker org. Remaster long chats. Revive bots from fichas.
+Token-thrifty chief/worker org. Remaster long chats. Revive bots from a short role card.
 
 ## What problem does this repo solve?
 
